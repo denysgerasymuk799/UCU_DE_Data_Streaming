@@ -1,0 +1,2 @@
+langdetect==1.0.9
+faust==1.10.4
