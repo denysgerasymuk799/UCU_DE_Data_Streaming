@@ -4,7 +4,7 @@
 
 Execute the following command in the root of the project:
 ```shell
-./UCU_DE_Data_Streaming$ docker-compose up --build
+./UCU_DE_Data_Streaming/HW3_Kafka_Streams$ docker-compose up --build
 ```
 
 ## Notes
